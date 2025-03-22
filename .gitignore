@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Flask instance folder
+instance/
+
+# Flask logs
+*.log
+
+# Virtual environment
+venv/
+ENV/
+kriptografi/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pickle files (model ve encoder dosyaları)
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
