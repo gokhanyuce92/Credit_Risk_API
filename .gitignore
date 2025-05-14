@@ -20,7 +20,6 @@ instance/
 # Virtual environment
 venv/
 ENV/
-kriptografi/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
